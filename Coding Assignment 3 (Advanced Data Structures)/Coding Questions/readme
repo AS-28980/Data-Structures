@@ -1,0 +1,10 @@
+1) Restrict usage of the programs to a small number of elements(Around 100-150 will most likely work 
+   as long as the numbers are not too large). The code is reading only 1000 characters at max as input 
+   so please keep that in mind while generating the input.
+2) To print the tree, ensure that you give an input of the following form:
+            4 x
+   Where x is any integer. The code is scanning 2 integers before moving on to execute the instruction
+   so the x is necessary for it to execute.
+3) The procedure to create the red-black tree in Q5 is the same the other 4 questions
+4) For Q1-Q4, keep in mind that the code runs within an infinite loop. Thus, the program must be manually
+   terminated to make it stop.
