@@ -1,0 +1,26 @@
+Question1
+    1) Enter size of linked list at the cursor itself and press Enter
+    2) Enter all the values either on the same line with spaces or all on separate lines
+
+Question2
+    Same instructions as Question1
+
+Question3
+    1) Please limit the operands to (+ - * / % ^) where ^ stands for exponent
+    2) Please parenthesize the infix expression properly
+    3) Feel free to add spaces to make your expression more readable, the program will assume they are absent
+    4) Please restrict the input to a single line
+
+Question4
+    1) The program takes input elements one by one, with a choice to continue after each input
+    2) Please ensure that the input sets are disjoint, otherwise repeated elements will be printed in the union
+
+Question5
+    Same instructions as Question1 (Only difference: Input here is size of set instead of linked list)
+
+Question6
+    1) For the insert option, enter position numbers starting from 1, not from 0. Enter data to be inserted
+       and the position in the same line with a space in between
+    2) Similarly for the delete option, enter position numbers starting from 1
+
+
