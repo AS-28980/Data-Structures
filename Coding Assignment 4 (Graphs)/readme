@@ -1,0 +1,35 @@
+Q1a) Input of the format:
+        a b c
+        x(1) y(1)
+        .
+        .
+        .
+        x(b) y(b)
+
+Q1b) Same as Q1a
+
+Q1c) Same as above but without the third variable on the first line
+
+Q2a) Input format:
+        a b
+        x(1) y(1) z(1)
+        .
+        .
+        .
+        x(b) y(b) z(b)
+
+Q2b) Same as Q2a
+
+Q3a) Input format:
+        a b c
+        x(1) y(1) z(1)
+        .
+        .
+        .
+        x(b) y(b) z(b)
+    Note that if even one vertex is not reachable from the source vertex,
+    program will exit and no output will be printed.
+
+Q3b) Same as Q3a
+     Unlike Q3a, if a particular vertex is unreachable, it'll print infinity(INT_MAX)
+     as the output for that particular vertex as path length.
