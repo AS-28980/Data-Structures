@@ -1,0 +1,24 @@
+Question 1)
+    No specific instructions. Maintain a single space between inputs that are on the same row.
+
+Question 2)
+    Enter both expressions on one line each, right after the colon. Maintain spaces between numbers and only
+    click Enter after you've input the entire string.
+
+Question 3)
+    Same as Q2
+
+Question 4)
+    Same as Q2. Please input expressions only for a tree where each node has either 0 or 2 children,
+    otherwise program might recurse infinitely and give no output. Essentially, while program will handle
+    cases where no possible trees can be found, it will fail for cases where multiple trees can be formed.
+
+Question 5)
+    Please give inputs very carefully. Also give ASCII values for the operators during input. Avoid giving
+    numbers which have the same ASCII value as those of the operators, because program might malfunction for
+    some cases. Acceptable operators are (+ -> 43), (- -> 45), (* -> 42), (/ -> 47), (% -> 37) and (^ -> 94).
+    Be mindful of division by 0. Multiple occurrences of the same operator has been handled so that will not
+    create an issue.
+
+Question 6)
+    Same as Q1
